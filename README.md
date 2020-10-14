@@ -73,8 +73,7 @@ To know more, please access [How it Works](https://www.back4app.com/database/how
 - [List Andorra Cities](https://www.back4app.com/database/back4app/list-of-cities-in-andorra)
 - [Andorra Zip Codes](https://www.back4app.com/database/back4app/andorra-postal-code)
 - [United Arab Emirates Cities Database](https://www.back4app.com/database/back4app/list-of-all-cities-in-uae)
-- 
-- [List of Cities in Afghanistan) (https://www.back4app.com/database/back4app/list-of-city-in-afghanistan)
+- [List of Cities in Afghanistan]((https://www.back4app.com/database/back4app/list-of-city-in-afghanistan)
 
 ## License
 - Most of datasets are available under the Creative Commons 4.0 license. 
