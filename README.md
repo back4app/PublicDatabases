@@ -58,7 +58,7 @@ To know more, please access [How it Works](https://www.back4app.com/database/how
 - [Database Brazilian States](https://www.back4app.com/database/back4app/brazilian-state-list)
 - [Lista de Aeronaves Registradas no Brasil](https://www.back4app.com/database/back4app/aeronaves-registradas-no-brasil)
 - [Lista de Bairros de Sao Paulo](https://www.back4app.com/database/back4app/lista-bairros-cidade-sao-paulo)
-- [List of LA neighborhoods](https://www.back4app.com/database/back4app/los-angeles-neighborhoods-api
+- [List of LA neighborhoods](https://www.back4app.com/database/back4app/los-angeles-neighborhoods-api)
 - [Massachusetts Locations](https://www.back4app.com/database/back4app/massachusetts-geographical-database)
 - [List Nobel Prices by Country](https://www.back4app.com/database/back4app/highest-number-of-nobel-prize-winners-by-country)
 - [List of Job Occupations](https://www.back4app.com/database/back4app/occupations-and-job-titles)
@@ -69,6 +69,13 @@ To know more, please access [How it Works](https://www.back4app.com/database/how
 - [Tokyo Olympics Venues Database](https://www.back4app.com/database/back4app/tokyo-olympics-2020-venues)
 - [US Cities by State Database](https://www.back4app.com/database/back4app/usa-by-state)
 - [US States and Capitails Database](https://www.back4app.com/database/back4app/list-of-us-states-and-capitals)
+- [Winter Olympic Games Locations](https://www.back4app.com/database/back4app/winter-olympics-host-countries-list)
+- [List Andorra Cities](https://www.back4app.com/database/back4app/list-of-cities-in-andorra)
+- [Andorra Zip Codes](https://www.back4app.com/database/back4app/andorra-postal-code)
+- [United Arab Emirates Cities Database](https://www.back4app.com/database/back4app/list-of-all-cities-in-uae)
+- 
+- [List of Cities in Afghanistan) (https://www.back4app.com/database/back4app/list-of-city-in-afghanistan)
+
 ## License
 - Most of datasets are available under the Creative Commons 4.0 license. 
 - Please refer to each database for licensing information. 
