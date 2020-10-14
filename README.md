@@ -53,10 +53,22 @@ To know more, please access [How it Works](https://www.back4app.com/database/how
 - [Hello Word by Programming Language](https://www.back4app.com/database/back4app/hello-world-in-all-programming-languages)
 - [Industries and Activities Database](https://www.back4app.com/database/back4app/industries-and-activities)
 - [List of All Animal Names](https://www.back4app.com/database/back4app/animal-dataset)
+- [List of Names Database](https://www.back4app.com/database/back4app/list-of-names-dataset)
+- [List of Tools for Developers](https://www.back4app.com/database/back4app/list-of-tools-for-developers)
 - [Database Brazilian States](https://www.back4app.com/database/back4app/brazilian-state-list)
-- [List of Names Database)(https://www.back4app.com/database/back4app/list-of-tools-for-developers)
-- [List of Names Database)(https://www.back4app.com/database/back4app/list-of-names-dataset)
 - [Lista de Aeronaves Registradas no Brasil](https://www.back4app.com/database/back4app/aeronaves-registradas-no-brasil)
+- [Lista de Bairros de Sao Paulo](https://www.back4app.com/database/back4app/lista-bairros-cidade-sao-paulo)
+- [List of LA neighborhoods](https://www.back4app.com/database/back4app/los-angeles-neighborhoods-api
+- [Massachusetts Locations](https://www.back4app.com/database/back4app/massachusetts-geographical-database)
+- [List Nobel Prices by Country](https://www.back4app.com/database/back4app/highest-number-of-nobel-prize-winners-by-country)
+- [List of Job Occupations](https://www.back4app.com/database/back4app/occupations-and-job-titles)
+- [Olympic Games Sports List](https://www.back4app.com/database/back4app/olympics-2020-sports-list)
+- [Annual Leave by Country](https://www.back4app.com/database/back4app/paid-vacation-by-country)
+- [Summer Olympic Games Locations](https://www.back4app.com/database/back4app/which-countries-have-hosted-the%20summer-olympics)
+- [All Time Zones Database](https://www.back4app.com/database/back4app/utc-time-zone-countries)
+- [Tokyo Olympics Venues Database](https://www.back4app.com/database/back4app/tokyo-olympics-2020-venues)
+- [US Cities by State Database](https://www.back4app.com/database/back4app/usa-by-state)
+- [US States and Capitails Database](https://www.back4app.com/database/back4app/list-of-us-states-and-capitals)
 ## License
 - Most of datasets are available under the Creative Commons 4.0 license. 
 - Please refer to each database for licensing information. 
